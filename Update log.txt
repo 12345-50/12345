@@ -1,0 +1,52 @@
+Ver 1.0 13/7/2025
+-Fully runnable minesweeper
+-rgb triangular "flag"
+-space hold and release (resolve the flag bug)
+-mouse tile click
+-changed to button released method
+-difficulty choosing "Easy", "medium", "hard"
+-added "Custom" difficulty
+-user input of width, height, mine in "Custom"
+-addedconfirm button in "Custom"
+-difficulty pop up menu made
+-all height, width, mine are parallel
+-an 'X' added in pop up menu
+-resolve the can't open different difficulty bug
+-restart button
+-resolve restart open new window bug
+-mine no. on tight top corner
+-numbers with color
+-background color
+-hover effect include concave and convex effect when clicking
+-resolve the game win and lose condition bug
+-resolve can't open bug
+
+
+Ver 1.1 14/7/2025
+-rewrite the code base
+-resolve lag problem when clicking
+-click again on difficulty can close the difficulty menu
+-solve left click crashed bug
+
+
+Ver 1.3 /7/2025
+
+
+Coming soon!!!!
+-Timer
+-left click on number reveals
+-random remove flag in an amount of time
+-sound effect
+-background music
+-win/lose animation
+-setting
+ ->show fps
+ ->fps setting
+ ->vsync setting
+ ->font
+ ->tilesize
+ ->brightness
+ ->volume
+  ->sfx volume
+  ->music volume
+-respawn with ads???
