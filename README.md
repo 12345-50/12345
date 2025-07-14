@@ -1,53 +1,48 @@
 # Minesweeper Game
 
-🎉 Thank you for downloading my Minesweeper game!
+Thank you for downloading my Minesweeper game!
 
----
+-------------------------
+## How to Run
+-------------------------
+1. Extract all files from the archive (.exe, .dll, .ttf) into the same folder.
+2. Double-click the **Minesweeper.exe** file to start the game.
 
-## ▶️ How to Run
-
-1. Extract **all files** from the archive (`.exe`, `.dll`, `.ttf`) into the **same folder**.
-2. Double-click the `Minesweeper.exe` file to start the game.
-3. No installation is needed — just **extract and run**!
-
----
-
-## ⚠️ Windows Security Warning
-
-When running the game for the first time, Windows may show a warning such as:
+-------------------------
+## Windows Security Warning
+-------------------------
+If Windows shows a warning like:
 - "Windows protected your PC"
 - "This file might be unsafe"
 
-This happens because the game is **not digitally signed**, which is common for small indie projects.
+Don't worry! This is a normal Windows security feature called SmartScreen.
 
-### 👉 To run anyway:
+To fix this:
 
-**Option 1: Unblock manually**
-1. Right-click the `.exe` file.
-2. Select **Properties**.
-3. Check the box that says **"Unblock"** (if visible) at the bottom.
-4. Click **Apply**, then **OK**.
-5. Double-click the `.exe` again.
-
-**Option 2: Through the SmartScreen popup**
-1. When the SmartScreen warning appears, click **More info**.
-2. Then click **Run anyway**.
+1. Right-click on the downloaded file or the extracted executable.
+2. Choose **Properties**.
+3. At the bottom of the Properties window, check the box labeled **Unblock**.
+4. Click **Apply** and then **OK**.
+5. Now, try running the game again by double-clicking the executable.
 
 ---
 
-## 📁 Important Notes
+## If You Cannot Download the File Because of Browser or Windows Blocking
 
-- Keep all files (`.exe`, `.dll`, `.ttf`) in the **same folder** — they are required to run the game.
-- If your browser (like Chrome) blocks the download:
-  - Go to `chrome://downloads`
-  - Click **"Keep dangerous file"** → **"Keep anyway"**
+Sometimes browsers like Google Chrome or Windows Defender may block the download or delete it automatically. If you cannot download or keep the file, try this:
 
----
-
-## 🙋 Need Help?
-
-If you have questions or run into issues, feel free to contact me.
+1. Open **Windows Security** (search for it from the Start menu).
+2. Go to **Virus & threat protection**.
+3. Click **Protection history**.
+4. Find the blocked download (e.g., `Minesweeper.exe` or the archive file).
+5. Click on the item and choose **"Allow on device"**.
+6. After this, try downloading the file from GitHub again.
 
 ---
 
-🎮 Enjoy playing Minesweeper!
+## Notes
+- No installation is needed; just extract and run.
+- Make sure all files (.exe, .dll, .ttf) stay in the same folder.
+- If you encounter any issues, please contact me.
+
+Enjoy playing!
