@@ -30,11 +30,16 @@ Ver 1.1 14/7/2025
 
 
 Ver 1.2 15/7/2025
--left click quick reveal added
+-left click can quick reveal
+-bug fixes
+
+Ver 1.3 15/7/2025
+-left click press number hover effect 
 -bug fixes
 
 Coming soon!!!!
 -Timer
+-left click on number reveals
 -random remove flag in an amount of time
 -sound effect
 -background music
@@ -50,3 +55,4 @@ Coming soon!!!!
   ->sfx volume
   ->music volume
 -respawn with ads???
+-2*2 3 mines win then 3*3 8 mines...
