@@ -49,8 +49,13 @@ Ver 2.1 18/7/2025
 -terminal won't open
 -bug fixes
 
+ver 3.0 20/7/2025
+-add RFR mode
+-add hardhore mode
+-added Desktop and Laptop version
+-bug fixes
+
 Coming soon!!!!
--random remove flag in an amount of time
 -sound effect
 -background music
 -setting
@@ -64,4 +69,4 @@ Coming soon!!!!
   ->sfx volume
   ->music volume
 -respawn with ads???
--2*2 3 mines win then 3*3 8 mines...
+-large space only one mine (calculate how many clicks and need hints of xy distance)
