@@ -55,6 +55,10 @@ ver 3.0 20/7/2025
 -added Desktop and Laptop version
 -bug fixes
 
+ver 3.1 21/7/2025
+-custom in difficulty menu changed
+-bugs fix
+
 Coming soon!!!!
 -sound effect
 -background music
