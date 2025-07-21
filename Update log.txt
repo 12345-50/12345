@@ -59,16 +59,21 @@ ver 3.1 21/7/2025
 -custom in difficulty menu changed
 -bugs fix
 
+ver 4.0 22/7/2025
+-setting added
+-press to confirmed added
+-brightness added
+-V-sync added
+-tile size added
+-bug fixes
+
 Coming soon!!!!
 -sound effect
 -background music
 -setting
  ->show fps
  ->fps setting
- ->vsync setting
  ->font
- ->tilesize
- ->brightness
  ->volume
   ->sfx volume
   ->music volume
