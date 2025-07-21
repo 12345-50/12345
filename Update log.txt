@@ -70,6 +70,9 @@ ver 4.0 22/7/2025
 ver 4.1 22/7/2025
 -bug fixes
 
+ver 4.2 22/7/2025
+-bug fixes
+
 Coming soon!!!!
 -sound effect
 -background music
